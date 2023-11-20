@@ -9,3 +9,7 @@ margin: auto;}
 img {display:block;
 padding: 0;
 max-width: 100%;}
+
+/*---- styling typography----*/
+h1, h2 {color: #F54C60
+font family:font-family: 'DM Sans', sans-serif;}
