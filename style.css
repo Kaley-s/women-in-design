@@ -2,7 +2,7 @@ body{background: #f7f7f7;
 color: #333;
 font-family: 'DM Sans', sans-serif;}
 
-section, header {width: 80%;
+article, header {width: 80%;
 max-width: 800px;
 margin: auto;}
 
@@ -13,3 +13,4 @@ max-width: 100%;}
 /*---- styling typography----*/
 h1, h2 {color: #F54C60
 font family:font-family: 'DM Sans', sans-serif;}
+p, blockquote {line-height: 1.5;}
