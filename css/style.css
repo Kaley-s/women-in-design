@@ -29,14 +29,14 @@ h1{
 }
 h2{ 
     font-size: 1.802rem;
-    margin: 3rem 0 1rem 0;
+    margin: 2rem 0 1rem 0;
 }
 
 blockquote{
     font-size: 1.602rem;
     font-style: italic;
     color: #F54C60;
-    margin: 0;
+    margin-bottom: 4rem;
 }
 cite{
     font-size: 1.266rem;
@@ -52,7 +52,7 @@ header h2 {
 
 header p{
     font-size: 1.4rem;
-    margin-bottom: 8rem;
+    margin-bottom: 6rem;
 }
 
 /*----styling links----*/
@@ -153,7 +153,8 @@ footer .connections a:hover svg path {
 
 .dark{background: #F54C60;
     color: #f7f7f7;
-    padding: 6rem 0;
+    margin: 4rem 0;
+    padding: 4rem 0;
 }
 
 .dark h2 {color:#f7f7f7;}
@@ -176,3 +177,4 @@ h1 {font-size: 3rem;
     margin: 2rem 0 1rem 0;}
 
 }
+
